@@ -2,7 +2,7 @@ Hi, I'm Sean and I'm an oldie coder, or a Codie!
 
 I am really into Python and am busy moving from beginner to intermediate levels of coding at the momment. 
 
-I am really enjoying experimenting with different web presentation libraries at the moment, my current fave is Streamlit, though I can dsee its limits.  Perhaps youcould let me know what you think of other ones?
+I am really enjoying experimenting with different web presentation libraries at the moment, my current fave is Streamlit, though I can see its limits.  Perhaps youcould let me know what you think of other ones?
 
 ## My Coding Story
 
