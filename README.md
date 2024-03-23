@@ -1,8 +1,8 @@
-Hi, I'm Sean and I'm an oldie coder, or a Codie!
+Hi, I'm Sean and I'm an oldie coder..... a Codie! (Please don't mention order 66!)
 
-I am really into Python and am busy moving from beginner to intermediate levels of coding at the momment. 
+I am really into Python and am busy moving through intermediate levels of coding at the momment. 
 
-I am really enjoying experimenting with different web presentation libraries at the moment, my current fave is Streamlit, though I can see its limits.  Perhaps youcould let me know what you think of other ones?
+I am really enjoying experimenting with different web presentation libraries at the moment, my current fave is Streamlit, though I can see its limits.  Perhaps you could let me know what you think of other ones?
 
 ## My Coding Story
 
@@ -20,6 +20,6 @@ I started work as a sales person at 19, selling accounting systems to start off 
 
 At 50 I started to realise that my brain was not getting the training it needed to stay as sharp as I wanted it to be to support my work and keep up with a group of 5 children whose academic endeavors waere already past my own. I returned to coding, found Python and Raspberry Pi computing and once again any spare time I had was spent learning the basics, practicing more advanced skills and eventually building my own projects. There are loads of really great books and learning resources, but I did notice that there was a lack of support for newer programmers who sometimes don’t know exactly how to ask the questions right, or interpret the helpful answers from very experienced coders. I also began to realise that it might be possible to forge a post-corporate career as a coder. Positive Python was born.
 
-Coding now provides me with a training environment for my brain, a hobby for me to pursue ideas and projects that I have been dreaming about for years and I hope a set of skills which will allow me to contribute positively into my retirements years.
+Coding now provides me with a training environment for my brain, a hobby for me to pursue ideas and projects that I have been dreaming about for years and I hope a set of skills which will allow me to contribute positively into my retirement years.
 
 sean@positivepython.co.uk
