@@ -22,4 +22,4 @@ At 50 I started to realise that my brain was not getting the training it needed 
 
 Coding now provides me with a training environment for my brain, a hobby for me to pursue ideas and projects that I have been dreaming about for years and I hope a set of skills which will allow me to contribute positively into my retirement years.
 
-sean@positivepython.co.uk
+seany42@gmail.com
